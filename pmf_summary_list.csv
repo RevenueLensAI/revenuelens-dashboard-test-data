@@ -1,0 +1,7 @@
+'Campaign','Status','Determination','Contacts','Sent','Replies','Interested','Meetings','Last Send'
+'PMF 1','Complete','Stop',500,1476,4,4,0,'3/1/2025'
+'PMF 2','Complete','Inconclusive',500,1469,8,7,3,'3/10/2025'
+'PMF 3','Complete','Good',500,1481,15,13,7,'4/2/2025'
+'PMF 4','Complete','Double Down',500,1479,31,16,12,'4/21/2025'
+'PMF 5','Active','Pending',500,300,0,0,0,'5/15/2025'
+'PMF 6','Active','Pending',500,768,3,3,0,'5/15/2025'
