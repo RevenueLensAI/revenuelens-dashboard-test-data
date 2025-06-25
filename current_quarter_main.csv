@@ -1,7 +1,2 @@
-'Name','Value'
-'Quarter Name','2025 Q2'
-'Days Remaining',46
-'Goal',600000
-'Closed Deals',200000
-'RevenueLens Forecast',500000
-'Standard Forecast', 70000
+'Quarter Name','Days Remaining','Goal','Closed Deals','RevenueLens Forecast','Standard Forecast'
+'2025 Q2',46,600000,200000,500000,70000
