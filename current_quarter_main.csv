@@ -1,2 +1,2 @@
-Quarter Name,Days Remaining,Goal,Closed Deals,RevenueLens Forecast,Standard Forecast
-2025 Q2,46,600000,200000,500000,70000
+Quarter Name,Days Remaining,Goal,Closed Deals,RevenueLens Forecast Delta,Standard Forecast Delta
+2025 Q2,46,600000,200000,-10000,10000
