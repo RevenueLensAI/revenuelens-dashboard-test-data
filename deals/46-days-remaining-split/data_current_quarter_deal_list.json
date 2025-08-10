@@ -1,7 +1,7 @@
 [["deal_name","deal_url","deal_stage","deal_amount","deal_revenuelens_forecast","deal_standard_forecast","deal_close_date","deal_owner","deal_use_case"],
 ["Titan Dynamics - New Deal","https://www.revenuelens.ai/","Closed Won",110000,110000,110000,"2025-07-15","Sarah Mitchell","Pipeline Management"],
 ["Radius Corporation - New Deal","https://www.revenuelens.ai/","Closed Won",90000,90000,90000,"2025-07-30","Marcus Rodriguez","Revenue Operations"],
-["Crimson Systems","https://www.revenuelens.ai/","Commit",70000,52500,52500,"2025-09-30","Mia Martinez","Revenue Operations"],
+["Crimson Systems - New Deal","https://www.revenuelens.ai/","Commit",70000,52500,52500,"2025-09-30","Mia Martinez","Revenue Operations"],
 ["Titanium Technologies - New Deal","https://www.revenuelens.ai/","Proposal",120000,60000,60000,"2025-09-30","Emma Thompson","Customer Success"],
 ["Nimbus Computing - New Deal","https://www.revenuelens.ai/","Proposal",90000,45000,45000,"2025-09-30","David Chen","Pipeline Management"],
 ["Anvil Industries - New Deal","https://www.revenuelens.ai/","Exploring Product",115000,17250,23000,"2025-09-30","Isabella Garcia","Pipeline Management"],
