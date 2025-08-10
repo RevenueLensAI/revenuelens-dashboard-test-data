@@ -1,1 +1,7 @@
-
+[["Campaign", "Status", "Determination", "Contacts", "Sent", "Replies", "Interested", "Meetings"],
+["PMF 1", "Complete", "Continue", 3500, 10111, 18, 12, 7],
+["PMF 2", "Complete", "Inconclusive", 2856, 7134, 13, 6, 2],
+["PMF 3", "Complete", "Continue", 2212, 6164, 15, 13, 4],
+["PMF 4", "Active", "Expand", 3045, 8643, 31, 16, 12],
+["PMF 5", "Active", "Stop", 1396, 2588, 5, 0, 0],
+["PMF 6", "Active", "Inconclusive", 534, 758, 4, 0, 0]]
