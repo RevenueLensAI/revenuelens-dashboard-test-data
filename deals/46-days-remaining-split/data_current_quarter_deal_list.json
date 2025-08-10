@@ -1,18 +1,18 @@
 [
-["deal_name","deal_url","deal_stage","deal_amount","deal_revenuelens_forecast","deal_standard_forecast","deal_close_date","deal_owner","deal_use_case"]
-["Titan Dynamics - New Deal","https://www.revenuelens.ai/","Closed Won",110000,110000,110000,"2025-07-15","Sarah Mitchell","Pipeline Management"]
-["Radius Corporation - New Deal","https://www.revenuelens.ai/","Closed Won",90000,90000,90000,"2025-07-30","Marcus Rodriguez","Revenue Operations"]
-["Crimson Systems","https://www.revenuelens.ai/","Commit",70000,52500,52500,"2025-09-30","Mia Martinez","Revenue Operations"]
-["Titanium Technologies - New Deal","https://www.revenuelens.ai/","Proposal",120000,60000,60000,"2025-09-30","Emma Thompson","Customer Success"]
-["Nimbus Computing - New Deal","https://www.revenuelens.ai/","Proposal",90000,45000,45000,"2025-09-30","David Chen","Pipeline Management"]
-["Anvil Industries - New Deal","https://www.revenuelens.ai/","Exploring Product",115000,17250,23000,"2025-09-30","Isabella Garcia","Pipeline Management"]
-["Fusion Networks - New Deal","https://www.revenuelens.ai/","Exploring Product",95000,21375,28500,"2025-09-30","Ryan O'Connor","Revenue Operations"]
-["Cobalt Networks - New Deal","https://www.revenuelens.ai/","Exploring Product",130000,29250,39000,"2025-09-30","Sophia Patel","Customer Success"]
-["Onyx Enterprises - New Deal","https://www.revenuelens.ai/","Use Case Identified",112000,25200,33600,"2025-09-30","James Wilson","Pipeline Management"]
-["Axiom Innovations - New Deal","https://www.revenuelens.ai/","Use Case Identified",130000,29250,39000,"2025-09-30","Ava Johnson","Pipeline Management"]
-["Helios Technologies - New Deal","https://www.revenuelens.ai/","Use Case Identified",75000,16875,22500,"2025-09-30","Michael Kim","Revenue Operations"]
-["Solaris Solutions - New Deal","https://www.revenuelens.ai/","Use Case Identified",165000,37125,49500,"2025-09-30","Olivia Brown","Pipeline Management"]
-["Redshift Technologies - New Deal","https://www.revenuelens.ai/","New",85000,0,8500,"2025-09-30","Daniel Singh","Revenue Operations"]
-["Helix Networks - New Deal","https://www.revenuelens.ai/","New",105000,0,10500,"2025-09-30","Charlotte Davis","Pipeline Management"]
-["Vortex Computing - New Deal","https://www.revenuelens.ai/","New",65000,0,6500,"2025-09-30","Alexander Lee","Pipeline Management"]
+["deal_name","deal_url","deal_stage","deal_amount","deal_revenuelens_forecast","deal_standard_forecast","deal_close_date","deal_owner","deal_use_case"],
+["Titan Dynamics - New Deal","https://www.revenuelens.ai/","Closed Won",110000,110000,110000,"2025-07-15","Sarah Mitchell","Pipeline Management"],
+["Radius Corporation - New Deal","https://www.revenuelens.ai/","Closed Won",90000,90000,90000,"2025-07-30","Marcus Rodriguez","Revenue Operations"],
+["Crimson Systems","https://www.revenuelens.ai/","Commit",70000,52500,52500,"2025-09-30","Mia Martinez","Revenue Operations"],
+["Titanium Technologies - New Deal","https://www.revenuelens.ai/","Proposal",120000,60000,60000,"2025-09-30","Emma Thompson","Customer Success"],
+["Nimbus Computing - New Deal","https://www.revenuelens.ai/","Proposal",90000,45000,45000,"2025-09-30","David Chen","Pipeline Management"],
+["Anvil Industries - New Deal","https://www.revenuelens.ai/","Exploring Product",115000,17250,23000,"2025-09-30","Isabella Garcia","Pipeline Management"],
+["Fusion Networks - New Deal","https://www.revenuelens.ai/","Exploring Product",95000,21375,28500,"2025-09-30","Ryan O'Connor","Revenue Operations"],
+["Cobalt Networks - New Deal","https://www.revenuelens.ai/","Exploring Product",130000,29250,39000,"2025-09-30","Sophia Patel","Customer Success"],
+["Onyx Enterprises - New Deal","https://www.revenuelens.ai/","Use Case Identified",112000,25200,33600,"2025-09-30","James Wilson","Pipeline Management"],
+["Axiom Innovations - New Deal","https://www.revenuelens.ai/","Use Case Identified",130000,29250,39000,"2025-09-30","Ava Johnson","Pipeline Management"],
+["Helios Technologies - New Deal","https://www.revenuelens.ai/","Use Case Identified",75000,16875,22500,"2025-09-30","Michael Kim","Revenue Operations"],
+["Solaris Solutions - New Deal","https://www.revenuelens.ai/","Use Case Identified",165000,37125,49500,"2025-09-30","Olivia Brown","Pipeline Management"],
+["Redshift Technologies - New Deal","https://www.revenuelens.ai/","New",85000,0,8500,"2025-09-30","Daniel Singh","Revenue Operations"],
+["Helix Networks - New Deal","https://www.revenuelens.ai/","New",105000,0,10500,"2025-09-30","Charlotte Davis","Pipeline Management"],
+["Vortex Computing - New Deal","https://www.revenuelens.ai/","New",65000,0,6500,"2025-09-30","Alexander Lee","Pipeline Management"],
 ]
