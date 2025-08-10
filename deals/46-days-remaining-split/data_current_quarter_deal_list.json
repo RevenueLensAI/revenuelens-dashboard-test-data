@@ -1,5 +1,4 @@
-[
-["deal_name","deal_url","deal_stage","deal_amount","deal_revenuelens_forecast","deal_standard_forecast","deal_close_date","deal_owner","deal_use_case"],
+[["deal_name","deal_url","deal_stage","deal_amount","deal_revenuelens_forecast","deal_standard_forecast","deal_close_date","deal_owner","deal_use_case"],
 ["Titan Dynamics - New Deal","https://www.revenuelens.ai/","Closed Won",110000,110000,110000,"2025-07-15","Sarah Mitchell","Pipeline Management"],
 ["Radius Corporation - New Deal","https://www.revenuelens.ai/","Closed Won",90000,90000,90000,"2025-07-30","Marcus Rodriguez","Revenue Operations"],
 ["Crimson Systems","https://www.revenuelens.ai/","Commit",70000,52500,52500,"2025-09-30","Mia Martinez","Revenue Operations"],
@@ -14,5 +13,4 @@
 ["Solaris Solutions - New Deal","https://www.revenuelens.ai/","Use Case Identified",165000,37125,49500,"2025-09-30","Olivia Brown","Pipeline Management"],
 ["Redshift Technologies - New Deal","https://www.revenuelens.ai/","New",85000,0,8500,"2025-09-30","Daniel Singh","Revenue Operations"],
 ["Helix Networks - New Deal","https://www.revenuelens.ai/","New",105000,0,10500,"2025-09-30","Charlotte Davis","Pipeline Management"],
-["Vortex Computing - New Deal","https://www.revenuelens.ai/","New",65000,0,6500,"2025-09-30","Alexander Lee","Pipeline Management"],
-]
+["Vortex Computing - New Deal","https://www.revenuelens.ai/","New",65000,0,6500,"2025-09-30","Alexander Lee","Pipeline Management"]]
