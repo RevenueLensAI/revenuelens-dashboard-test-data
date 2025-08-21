@@ -4,4 +4,4 @@
 ["PMF 3", "Complete", "Continue", 2212, 6164, 15, 13, 4],
 ["PMF 4", "Active", "Expand", 3045, 8643, 31, 16, 12],
 ["PMF 5", "Active", "Stop", 1396, 2588, 5, 0, 0],
-["PMF 6", "Active", "Inconclusive", 534, 758, 4, 0, 0]]
+["PMF 6", "Active", "Pending", 534, 758, 4, 0, 0]]
