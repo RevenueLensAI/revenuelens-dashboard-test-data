@@ -1,6 +1,6 @@
 [["Campaign", "Status", "Determination", "Contacts", "Sent", "Replies", "Interested", "Bounced", "Meetings", "Engaged", "Start Date"],
 ["PMF 0", "Complete", "Continue", 1000, 10000, 10, 10, 4, 1, 10, "2025-02-03"],
-["DUMMY", "Complete", "Continue", 100, 100, 1, 1, 1, 0, 3, "2025-02-03"],
+["This is going to be a really long PMF nickname that should wrap when column width is too small", "Complete", "Continue", 100, 100, 1, 1, 1, 0, 3, "2025-02-03"],
 ["PMF 1", "Complete", "Continue", 3500, 10111, 18, 12, 15, 7, 4, "2025-02-03"],
 ["PMF 2", "Complete", "Inconclusive", 2856, 7134, 13, 6, 14, 2, 6, "2025-02-03"],
 ["PMF 3", "Complete", "Continue", 2212, 6164, 15, 13, 44, 4, 26, "2025-02-04"],
