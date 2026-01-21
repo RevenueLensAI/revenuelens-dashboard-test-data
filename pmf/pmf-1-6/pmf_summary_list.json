@@ -1,9 +1,9 @@
-[["Campaign", "Status", "Determination", "Contacts", "Sent", "Replies", "Interested", "Bounced", "Meetings", "Engaged"],
-["PMF 0", "Complete", "Continue", 1000, 10000, 10, 10, 4, 1, 10],
-["DUMMY", "Complete", "Continue", 100, 100, 1, 1, 1, 0, 3],
-["PMF 1", "Complete", "Continue", 3500, 10111, 18, 12, 15, 7, 4],
-["PMF 2", "Complete", "Inconclusive", 2856, 7134, 13, 6, 14, 2, 6],
-["PMF 3", "Complete", "Continue", 2212, 6164, 15, 13, 44, 4, 26],
-["PMF 4", "Active", "Expand", 3045, 8643, 31, 16, 0, 12, 10],
-["PMF 5", "Active", "Stop", 1396, 2588, 5, 0, 13, 0, 4],
-["PMF 6", "Active", "Pending", 534, 758, 4, 0, 7, 0, 2]]
+[["Campaign", "Status", "Determination", "Contacts", "Sent", "Replies", "Interested", "Bounced", "Meetings", "Engaged", "Start Date"],
+["PMF 0", "Complete", "Continue", 1000, 10000, 10, 10, 4, 1, 10, "2025-02-03"],
+["DUMMY", "Complete", "Continue", 100, 100, 1, 1, 1, 0, 3, "2025-02-03"],
+["PMF 1", "Complete", "Continue", 3500, 10111, 18, 12, 15, 7, 4, "2025-02-03"],
+["PMF 2", "Complete", "Inconclusive", 2856, 7134, 13, 6, 14, 2, 6, "2025-02-03"],
+["PMF 3", "Complete", "Continue", 2212, 6164, 15, 13, 44, 4, 26, "2025-02-04"],
+["PMF 4", "Active", "Expand", 3045, 8643, 31, 16, 0, 12, 10, "2025-01-29"],
+["PMF 5", "Active", "Stop", 1396, 2588, 5, 0, 13, 0, 4, "2025-03-15"],
+["PMF 6", "Active", "Pending", 534, 758, 4, 0, 7, 0, 2, "2025-04-27"]]
