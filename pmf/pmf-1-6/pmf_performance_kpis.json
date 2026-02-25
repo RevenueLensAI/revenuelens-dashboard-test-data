@@ -1,9 +1,74 @@
-[['Metric', 'Value', 'Trend', 'ChangePercent', 'Medal', 'PreviousMedal'],
- ['Waiting in Queue', '12', 'up', null, null, null],
- ['Oldest in Queue', '2026-02-24T10:57:21.499Z', null, null, null, null],
- ['Fastest Response', '00:02:34', 'down', -18.3, null, null],
- ['Slowest Response', '04:32:17', 'up', 6.1, null, null],
- ['P50', '01:32:10', 'down', -42.8, 'gold', null],
- ['P75', '02:15:40', 'down', -12.4, null, null],
- ['P90', '02:45:30', 'up', 8.7, null, null],
- ['P95', '04:12:15', 'up', 15.2, null, null]]
+[
+   [
+      "Metric",
+      "Value",
+      "Trend",
+      "ChangePercent",
+      "Medal",
+      "PreviousMedal"
+   ],
+   [
+      "Waiting in Queue",
+      12,
+      "up",
+      null,
+      null,
+      null
+   ],
+   [
+      "Oldest in Queue",
+      "2026-02-24T10:57:21.499Z",
+      null,
+      null,
+      null,
+      null
+   ],
+   [
+      "Fastest Response",
+      "00:02:34",
+      "down",
+      -18.3,
+      null,
+      null
+   ],
+   [
+      "Slowest Response",
+      "04:32:17",
+      "up",
+      6.1,
+      null,
+      null
+   ],
+   [
+      "P50",
+      "01:32:10",
+      "down",
+      -42.8,
+      "gold",
+      null
+   ],
+   [
+      "P75",
+      "02:15:40",
+      "down",
+      -12.4,
+      null,
+      null
+   ],
+   [
+      "P90",
+      "02:45:30",
+      "up",
+      8.7,
+      null,
+      null
+   ],
+   [
+      "P95",
+      "04:12:15",
+      "up",
+      15.2,
+      null,
+      null
+   ]
+]
